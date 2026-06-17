@@ -43,19 +43,16 @@ Classe d'armure, Points de vie, Vitesse, Facteur de puissance (FP), Bonus de ma�
 
 ## État d'avancement
 
-Fichiers déjà traduits dans `/fr` :
+**Traduction complète.** L'arborescence `/fr` est un miroir intégral de `/en` (à l'exception de `_other/templates/combat.md`, fichier interne non destiné aux joueurs).
+
+<details>
+<summary>Liste complète des fichiers traduits</summary>
+
 - `Introduction/A DM's Guide to Curse of Strahd.md`
 - `Introduction/Changelog.md`
 - `Introduction/Using This Guide.md`
 - `Chapter 1 - Beginning the Campaign/Character Creation.md`
 - `Chapter 1 - Beginning the Campaign/Session Zero.md`
-- `Act II - The Shadowed Town/Arc D - St. Andral's Feast.md`
-- `Act II - The Shadowed Town/Arc E - The Missing Vistana.md`
-- `Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md`
-- `Act II - The Shadowed Town/Act II Summary.md`
-- `Act II - The Shadowed Town/Arc G - The Strazni Siblings.md`
-- `Act II - The Shadowed Town/Arc H - The Lost Soul.md`
-- `Act II - The Shadowed Town/Arc I - The Walls of Krezk.md`
 - `Chapter 2 - The Land of Barovia/History of Barovia.md`
 - `Chapter 2 - The Land of Barovia/Lore of Barovia.md`
 - `Chapter 2 - The Land of Barovia/Strahd von Zarovich.md`
@@ -66,13 +63,30 @@ Fichiers déjà traduits dans `/fr` :
 - `Act I - Into the Mists/Arc A - Escape From Death House.md`
 - `Act I - Into the Mists/Arc B - Welcome to Barovia.md`
 - `Act I - Into the Mists/Arc C - Into the Valley.md`
+- `Act II - The Shadowed Town/Act II Summary.md`
+- `Act II - The Shadowed Town/Arc D - St. Andral's Feast.md`
+- `Act II - The Shadowed Town/Arc E - The Missing Vistana.md`
+- `Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md`
+- `Act II - The Shadowed Town/Arc G - The Strazni Siblings.md`
+- `Act II - The Shadowed Town/Arc H - The Lost Soul.md`
+- `Act II - The Shadowed Town/Arc I - The Walls of Krezk.md`
 - `Act III - The Broken Land/Act III Summary.md`
 - `Act III - The Broken Land/Arc J - The Stolen Gem.md`
 - `Act III - The Broken Land/Arc K - The Fallen Abbey.md`
 - `Act III - The Broken Land/Arc L - The Den of Wolves.md`
 - `Act III - The Broken Land/Arc M - The Dragon's Manor.md`
+- `Act III - The Broken Land/Arc N - Tales of Vallaki.md`
 - `Act III - The Broken Land/Arc O - Dinner with the Devil.md`
+- `Act III - The Broken Land/Arc P - Ravenloft Heist.md`
+- `Act III - The Broken Land/Arc Q - A Shining Beacon.md`
+- `Act III - The Broken Land/Arc R - Trials of the Mountain.md`
+- `Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md`
+- `Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md`
+- `Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md`
+- `Act IV - Secrets of the Ancient/Epilogue.md`
+- `Appendices/Amber Shards.md`
+- `Appendices/Bestiary.md`
+- `Appendices/Glossary.md`
+- `Appendices/Non-Player Characters.md`
 
-Prochaine étape : comparer les arborescences `/en` et `/fr` pour identifier les fichiers restants (Chapitres 1-3 restants, Acte I, etc.) et continuer la traduction dans cet ordre.
-
-Pour repérer rapidement ce qui reste à faire, comparer les arborescences `/en` et `/fr` (les fichiers absents de `/fr` restent à traduire).
+</details>
